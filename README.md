@@ -1,2 +1,1 @@
-# llm-task-manager
-A repository for an LLM-based task manager with Google Calendar and Notion integration
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
